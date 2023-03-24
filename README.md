@@ -25,8 +25,8 @@ Save the Clean data to the file
 ## df.head()
 ### ![image](https://user-images.githubusercontent.com/128350225/227574862-f25b54d9-4693-444e-81a5-fa752529df42.png)
 ## df.info()
+### ![Uploading image.png…]()
 ## df.isnull().sum()
 ### ![image](https://user-images.githubusercontent.com/128350225/227575217-680a7e0f-503c-492f-8c4c-3254e4f58ea1.png)
 ## Result:
 ### Hence the given data is read and perform data cleaning and save the cleaned data to a file.
-
